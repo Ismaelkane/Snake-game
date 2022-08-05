@@ -1,0 +1,25 @@
+.snakebox{
+    text-align: center;
+    overflow: hidden;
+}
+
+#scoren{
+
+font-size: 18px;
+margin-top: -20px;
+}
+
+#score{
+    font-size: 5vh;
+font-style: normal ;
+}
+
+
+html{
+    overflow: hidden;
+}
+
+h1{
+    margin-top: -5px;
+}
+
